@@ -16,6 +16,7 @@
 * Lead a team of 7 people
 ##### 2016.9 - 2017.6
 ### NTT COMWARE CORPORATION
+* 
 #### Web engineer
 ##### 2014.6 - 2016.8
 ### BEIJING FUJITSU SYSTEM ENGINEERING Co., Ltd.
@@ -24,12 +25,15 @@
 ###### Projects
 ##### 2017.7 - Present
 ### smart FORCE e-Learning System
-##### 2017.7 - Present
-### smart FORCE e-Learning System
+##### 2016.9 - 2017.6
 ### biz-FLOW Order Management System
+##### 2016.7 - 2016.8
 ### Human Resources and Salaries System
+##### 2015.9 - 2016.7
 ### Banking Data Integration System
+##### 2015.8 - 2015.9
 ### Office Automation System
+##### 2014.6 - 2015.2
 ### Creditcard Constrction System
 ---
 ###### Education
